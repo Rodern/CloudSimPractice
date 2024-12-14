@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudSim.Models", "CloudSim.Models\CloudSim.Models.csproj", "{E6BC39A3-07BF-458A-A61D-E41083D35F3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudSim.Centers", "CloudSim.Centers\CloudSim.Centers.csproj", "{763C29B0-BC1C-42C3-A94A-8A294AA21AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudSim.Connections", "CloudSim.Connections\CloudSim.Connections.csproj", "{7785CC5A-D574-49E7-A889-92399D741868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudSim.Machines", "CloudSim.Machines\CloudSim.Machines.csproj", "{9CF485BC-27D8-4D89-8EBC-0D598BAFA657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudSim.Scheduling", "CloudSim.Scheduling\CloudSim.Scheduling.csproj", "{B818CFE0-20E3-4E30-872E-510FBD4A02A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudSim.Logic", "CloudSim.Logic\CloudSim.Logic.csproj", "{A864DC9F-D139-4522-9617-AACAF3E2849F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudSim.Console", "CloudSim.Console\CloudSim.Console.csproj", "{14E4B365-EC6F-4AFA-BE17-6B448D7CC597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6BC39A3-07BF-458A-A61D-E41083D35F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6BC39A3-07BF-458A-A61D-E41083D35F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6BC39A3-07BF-458A-A61D-E41083D35F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6BC39A3-07BF-458A-A61D-E41083D35F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{763C29B0-BC1C-42C3-A94A-8A294AA21AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763C29B0-BC1C-42C3-A94A-8A294AA21AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763C29B0-BC1C-42C3-A94A-8A294AA21AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763C29B0-BC1C-42C3-A94A-8A294AA21AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7785CC5A-D574-49E7-A889-92399D741868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7785CC5A-D574-49E7-A889-92399D741868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7785CC5A-D574-49E7-A889-92399D741868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7785CC5A-D574-49E7-A889-92399D741868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF485BC-27D8-4D89-8EBC-0D598BAFA657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF485BC-27D8-4D89-8EBC-0D598BAFA657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF485BC-27D8-4D89-8EBC-0D598BAFA657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF485BC-27D8-4D89-8EBC-0D598BAFA657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B818CFE0-20E3-4E30-872E-510FBD4A02A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B818CFE0-20E3-4E30-872E-510FBD4A02A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B818CFE0-20E3-4E30-872E-510FBD4A02A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B818CFE0-20E3-4E30-872E-510FBD4A02A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A864DC9F-D139-4522-9617-AACAF3E2849F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A864DC9F-D139-4522-9617-AACAF3E2849F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A864DC9F-D139-4522-9617-AACAF3E2849F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A864DC9F-D139-4522-9617-AACAF3E2849F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E4B365-EC6F-4AFA-BE17-6B448D7CC597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E4B365-EC6F-4AFA-BE17-6B448D7CC597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E4B365-EC6F-4AFA-BE17-6B448D7CC597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E4B365-EC6F-4AFA-BE17-6B448D7CC597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
